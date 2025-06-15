@@ -1,6 +1,6 @@
 # 🔐 Why Use Zig for Encryption Apps?
 
-Zig is a modern low-level programming language that's well-suited for building efficient, safe, and portable encryption tools — especially when simplicity and performance matter.
+Zig is a modern low-level programming language that's well-suited for building efficient, safe, and portable encryption tools — especially when simplicity and performance matter. If you are too foolish to use Rust, zig is one of the many other options :) 
 
 ---
 
